@@ -13,7 +13,7 @@
 
 ## Name: [Navuluri Nuthan Chandu]
 
-## Qualifications: [MCA]
+## Qualifications: [Pursuing final year MCA]
 
 Welcome to the course report for the [Cloud Computing & DevOps - Basic Applications]! This README document provides an overview of the course, its mini projects and final project.
 
