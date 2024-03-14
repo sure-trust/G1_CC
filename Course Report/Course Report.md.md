@@ -6,16 +6,16 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> Course Name </h2>
+  <h2> Cloud Computing & DevOps - Basic Applications </h2>
 </div>
 
 # Course Report
 
-## Name: [Your Name]
+## Name: [Navuluri Nuthan Chandu]
 
-## Qualifications: [Your Qualifications]
+## Qualifications: [MCA]
 
-Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the [Cloud Computing & DevOps - Basic Applications]! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
-| Final Project: [Project Description]     | [Project Link]                         |
+| Mini Projects: [1) Creating two ec2 instances in private and public subnets and trying to connect from one to other 2) creating CICD pipeline using codecommit , codepipeline and elastic beanstalk]     | [https://github.com/sure-trust/G1_CC/tree/main/Mini%20Projects/Nuthan]                         |
+| Final Project: [1) Building a serverless web application]     | [https://github.com/sure-trust/G1_CC/tree/main/Final%20Capstone%20Projects/Nuthan]                         |
