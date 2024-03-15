@@ -11,7 +11,7 @@
 
 # Course Report
 
-## Name: [Navuluri Nuthan Chandu]
+## Name: [Madaka Pavan Kalyan]
 
 ## Qualifications: [MCA]
 
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [1) Creating two ec2 instances in private and public subnets and trying to connect from one to other 2) creating CICD pipeline using codecommit , codepipeline and elastic beanstalk]     | [https://github.com/sure-trust/G1_CC/tree/main/Mini%20Projects/Nuthan]                         |
-| Final Project: [1) Building a serverless web application]     | [https://github.com/sure-trust/G1_CC/tree/main/Final%20Capstone%20Projects/Nuthan]                         |
+| Mini Projects: [1) Creating two ec2 instances in private and public subnets and trying to connect from one to other 2) creating CICD pipeline using codecommit , codepipeline and elastic beanstalk]     | [https://github.com/sure-trust/G1_CC/tree/main/Mini%20Projects/Pavan%20Kalyan]                         |
+| Final Project: [1) Building a serverless web application]     | [https://github.com/sure-trust/G1_CC/tree/main/Final%20Capstone%20Projects/Pavan%20Kalyan]                         |
