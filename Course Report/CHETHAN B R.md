@@ -16,8 +16,7 @@
 
 ## Qualifications: [BE  4TH YEAR  CSE]
 
-Welcome to the course report for the [Cloud Computing & DevOps - Basic Applications
-]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the Cloud Computing & DevOps - Basic Applications! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
@@ -27,4 +26,4 @@ Below is a table summarizing the mini projects and final project completed durin
 |-------------------------------------------|-----------------------------------------|
 | Mini Projects: [Set up a Continuous Deployment Pipeline using AWS CodePipeline]     | [click here](https://github.com/sure-trust/G1_CC/tree/main/Mini%20Projects/Chethan)                        |
 | Final Project: [Build a Serverless web application with AWS lambda, API gateway,AWS Amplify, Amazon DynamoDB,and Amazon Cognito]     | [click here](https://github.com/sure-trust/G1_CC/blob/main/Final%20Capstone%20Projects/Chethan/final_proj.docx)                         |
-=======                  
+
