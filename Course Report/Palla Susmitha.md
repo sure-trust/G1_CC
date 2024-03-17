@@ -24,4 +24,4 @@ Below is a table summarizing the mini projects and final project completed durin
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
 | Mini Projects: CICD pipeline     | [click here](https://github.com/sure-trust/G1_CC/tree/main/Mini%20Projects/Sushmitha)                        |
-| Final Project: Serverless web app deployement     | [click here] (https://github.com/sure-trust/G1_CC/tree/main/Final%20Capstone%20Projects/Sushmitha)                        |
+| Final Project: Serverless web app deployement  | [click here](https://github.com/sure-trust/G1_CC/tree/main/Final%20Capstone%20Projects/Sushmitha)                        |
