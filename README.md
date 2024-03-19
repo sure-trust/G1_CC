@@ -20,7 +20,13 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 To enroll in the Cloud Computing, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
 
 
-
+|Student Name|Link|
+|------------|----|
+|Chetan|[Click Here](link)|
+|Nuthan|[Click Here](link)|
+|Palla Susmitha|[Click Here](link)|
+|Pavan|[Click Here](link)|
+|Reethik Sagar|[Click Here](link)|
 
 ## Repository Description
 
