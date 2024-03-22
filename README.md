@@ -22,11 +22,11 @@ To enroll in the Cloud Computing, please visit the official SURE Trust website: 
 
 |Student Name|Link|
 |------------|----|
-|Chetan|[Click Here](link)|
-|Nuthan|[Click Here](link)|
-|Palla Susmitha|[Click Here](link)|
-|Pavan|[Click Here](link)|
-|Reethik Sagar|[Click Here](link)|
+|Chetan|[Click Here](https://github.com/sure-trust/G1_CC/blob/main/Course%20Report/CHETHAN%20B%20R.md)|
+|Nuthan|[Click Here](https://github.com/sure-trust/G1_CC/blob/main/Course%20Report/Nuthan.md)|
+|Palla Susmitha|[Click Here](https://github.com/sure-trust/G1_CC/blob/main/Course%20Report/Palla%20Susmitha.md)|
+|Pavan|[Click Here](https://github.com/sure-trust/G1_CC/blob/main/Course%20Report/Pavan.md)|
+|Reethik Sagar|[Click Here](https://github.com/sure-trust/G1_CC/blob/main/Course%20Report/Reethik%20Sagar%20Janaki.md)|
 
 ## Repository Description
 
