@@ -25,5 +25,5 @@ Below is a table summarizing the mini projects and final project completed durin
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
 | Mini Projects: [Set up a Continuous Deployment Pipeline using AWS CodePipeline]     | [click here](https://github.com/sure-trust/G1_CC/tree/main/Mini%20Projects/Chethan)                        |
-| Final Project: [Build a Serverless web application with AWS lambda, API gateway,AWS Amplify, Amazon DynamoDB,and Amazon Cognito]     | [click here](https://github.com/sure-trust/G1_CC/blob/main/Final%20Capstone%20Projects/Chethan/final_proj.docx)                         |
+| Final Project: [Build a Serverless web application with AWS lambda, API gateway,AWS Amplify, Amazon DynamoDB,and Amazon Cognito]     | [click here](https://github.com/sure-trust/G1_CC/tree/main/Final%20Capstone%20Projects/Chethan)                         |
 
